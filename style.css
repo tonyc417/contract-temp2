@@ -105,3 +105,8 @@ img {
   line-height: 1;
   letter-spacing: -1px;
 }
+
+.compName {
+    background-color: #303030;
+    color: white;
+}
