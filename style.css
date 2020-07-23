@@ -122,3 +122,8 @@ img {
     font-size: 1.2em;
     font-family: 'Quicksand', sans-serif;
 }
+
+.picGrid {
+    height: auto;
+    width: auto;
+}
