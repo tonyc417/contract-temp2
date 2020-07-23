@@ -117,3 +117,8 @@ img {
     text-transform: uppercase;
     font-family: 'Josefin Sans', sans-serif;
 }
+
+.compText {
+    font-size: 1.2em;
+    font-family: 'Quicksand', sans-serif;
+}
