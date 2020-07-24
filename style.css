@@ -72,6 +72,11 @@ h1 {
   font-size: 50px;
 }
 
+#map {
+    height: 400px; 
+    width: 100%;  
+}
+
 .hero-text {
   text-align: center;
   position: absolute;
@@ -239,6 +244,23 @@ nav a {
     text-transform: uppercase;
     opacity: 0;
     transition: opacity 150ms ease-in-out;
+}
+
+/* Card Styles */
+
+.customCard {
+    background: #303030;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+    color: white;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;  
+}
+
+.customCard:hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
 }
 
 @media only screen and (max-width: 500px) {
