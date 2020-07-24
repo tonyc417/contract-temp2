@@ -87,6 +87,10 @@ h1 {
   overflow: hidden;
 }
 
+hr.solid {
+    border-top: 3px solid white;
+}
+
 .featurette-divider {
   margin: 80px 0;
 }
