@@ -59,6 +59,15 @@ body, html {
     position: relative;
 }
 
+#contact-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./pictures/contactPic.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 h1 {
   font-size: 50px;
 }
