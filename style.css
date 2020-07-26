@@ -295,6 +295,11 @@ nav a {
     position: relative;
 }
 
+.contactBack {
+    background-color: #c9c9c8;
+    padding: 20px 10px;
+}
+
 @media only screen and (max-width: 500px) {
     .picGrid {
       background-color: red;
