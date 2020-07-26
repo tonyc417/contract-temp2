@@ -114,6 +114,12 @@ hr.solid {
     border-top: 3px solid white;
 }
 
+hr.solidCore {
+    border-top: 3px solid black;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
 .featurette-divider {
   margin: 80px 0;
 }
