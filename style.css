@@ -327,6 +327,14 @@ nav a {
     .mobileRow {
         text-align: center;
     }
+    
+    #residental-image, #about-image, #portfolio-image, #contact-image, #commercial-image {
+        height: 80vh;
+    }
+
+    #hero-image {
+        height: 90vh;
+    }
 
     .mobView {
         color: white;
@@ -338,7 +346,6 @@ nav a {
     .nav-toggle-label {
         display:none;
     }
-
 
     header {
         display: grid;
