@@ -43,7 +43,7 @@ body, html {
 
 #hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./city-view.jpg");
-  height: 70vh;
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,7 +52,7 @@ body, html {
 
 #about-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./pictures/aboutUs.jpg");
-    height: 50%;
+    height: 90vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,7 +79,7 @@ body, html {
 
 #contact-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./pictures/contactPic.jpg");
-    height: 50%;
+    height: 90%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -88,7 +88,7 @@ body, html {
 
 #residental-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./pictures/residentalBuild.jpg");
-    height: 70%;
+    height: 90%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,7 +97,7 @@ body, html {
 
 #commercial-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./pictures/commercialBuild.jpg");
-    height: 50%;
+    height: 90%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
